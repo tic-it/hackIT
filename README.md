@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Rishi| photoshop |
 | Ram kumar |Photoshop|
 |SURAJ|photoshop|
 arayk shah
