@@ -13,7 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
-
+|Rabhan Chaulagain |                                     | Web Development|
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
 ### You can add coded projects in the projects directory
