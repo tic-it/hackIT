@@ -1,5 +1,68 @@
 //CodingChallenges #1
 
+
+// let markHeight = 1.69
+// let markWeight = 78
+// let johnHeight = 1.95
+// let johnWeight = 92
+
+// let markBMI = markWeight / markHeight** 2
+// let johnBMI = johnWeight / johnHeight** 2
+// console.log(markBMI)
+// console.log(johnBMI)
+
+// let markHigherBMI = markBMI > johnBMI //coding challenge#2 task 1
+// if(markHigherBMI)
+// {
+//     console.log(`Mark's BMI is higher than John's BMI`)
+// }
+// else
+// {
+//     console.log(`John's BMI is higher than Mark's BMI`)
+// }
+
+// if(markHigherBMI) //task 2
+// {
+//     console.log(`Mark's BMI (${markBMI}) is higher than John's BMI (${JohnBMI})`)
+// }
+// else
+// {
+//     console.log(`John's BMI (${JohnBMI}) is higher than Mark's BMI (${markBMI})`)
+
+// }
+
+
+
+//CodingChallenges #3
+//task 1.
+let avgDolphins = (96 + 108 + 89)/3
+let avgKoalas = (88 + 91 + 110)/3
+
+console.log(avgDolphins, avgKoalas)
+// console.log(avgDolphins.toFixed(2), avgKoalas.toFixed(2))
+
+//task 2.
+if (avgDolphins > avgKoalas) {
+    console.log(`Dolphins are winner`)
+}
+else if (avgKoalas > avgDolphins)
+{
+    console.log(`Both team draws`)
+}
+
+//task 3.
+if (avgDolphins > avgKoalas && avgDolphins >= 100){
+    console.log(`Dolphins are winner`)
+}
+else if(avgKoalas > avgDolphins && avgKoalas >= 100){
+    console.log(`Koalas are winner`)
+}
+else if (avgDolphins === avgKoalas && avgDolphins >= 100 && avgKoalas >= 100) {
+    console.log(`Both team draws`)
+}
+else {
+    console.log(`No one wins`)
+=======
 let markHeight = 1.69
 let markWeight = 78
 let johnHeight = 1.95
@@ -29,6 +92,7 @@ if (markHigherBMI) //task 2
 else
 {
     console.log(`John's BMI(${johnBMI}) is higher than Mark's BMI (${markBMI}.`)
+
 }
 
 
@@ -37,7 +101,17 @@ else
 
 
 
+
+
+
+
+
+
+
+
+
 // //CodingChallenges #3
+
 // let dolphinScore1 = [97,112,101]
 // let koalasScore1 = [109,95,106]
 // let dolphinAverage1 = (97+112+101)/3
@@ -58,6 +132,8 @@ else
 // }
 // else {
 //     console.log(`Nobody wins.`)
+
+// }
 // }
 
 
@@ -97,3 +173,4 @@ else if (avgDolphins === avgKoalas)
 else{
     console.log(`No one wins.`)
 }
+
