@@ -14,6 +14,11 @@
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
 | Ritika |Photoshop|
+ |suraj bhandari |photoshop|
+| Rishi| photoshop |
+| Ram kumar |Photoshop|
+|SURAJ|photoshop|
+arayk shah
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
