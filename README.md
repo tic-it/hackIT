@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Puskal Barali |CODING|
 | Sushiya Mgr | Photoshop|
 | Abisha Shrestha |Web Development|
 | Sneha Maharjan |web development|
