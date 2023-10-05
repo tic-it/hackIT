@@ -10,6 +10,10 @@
 
 ## Add your information creating a new row above the last row in the table below!
 
+| Contributors                                           | Interests                |
+| ------------------------------------------------------ | ------------------------ |
+| IT Club 2023 |TECH|
+
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
 ### You can add coded projects in the projects directory
