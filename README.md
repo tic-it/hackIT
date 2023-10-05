@@ -12,6 +12,7 @@
 
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
+| IT Club 2023 |TECH|Anushkrit parajuli 1
 | IT Club 2023 |TECH|
 | Puskal Barali |CODING|
 | Sushiya Mgr | Photoshop|
