@@ -13,6 +13,8 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Puskal Barali |CODING|
+
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
