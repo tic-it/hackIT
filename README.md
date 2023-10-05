@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+ |suraj bhandari |photoshop|
 | Rishi| photoshop |
 | Ram kumar |Photoshop|
 |SURAJ|photoshop|
