@@ -50,19 +50,19 @@
 // else{}
 
 // 1
-let avgDolphins = (96 + 108 + 89) / 3;
-let avgkoalas = (88 + 91 + 110) / 3;
+// let avgDolphins = (96 + 108 + 89) / 3;
+// let avgkoalas = (88 + 91 + 110) / 3;
 
-console.log(avgDolphins, avgkoalas);
+// console.log(avgDolphins, avgkoalas);
 
-// 2
-if (avgDolphins > avgkoalas) {
-  console.log("Dolphins are winner");
-} else if (avgkoalas > avgDolphins) {
-  console.log("Koalas are winner");
-} else {
-  console.log("Its a draw");
-}
+// // 2
+// if (avgDolphins > avgkoalas) {
+//   console.log("Dolphins are winner");
+// } else if (avgkoalas > avgDolphins) {
+//   console.log("Koalas are winner");
+// } else {
+//   console.log("Its a draw");
+// }
 
 // 3
 // if(avgDolphins>avgKoalas && avgDolphins>=100){
