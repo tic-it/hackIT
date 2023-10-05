@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Ritika |Photoshop|
  |suraj bhandari |photoshop|
 | Rishi| photoshop |
 | Ram kumar |Photoshop|
