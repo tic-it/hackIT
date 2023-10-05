@@ -14,6 +14,7 @@
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|Anushkrit parajuli 1
 | IT Club 2023 |TECH|
+|Rabhan Chaulagain |                                     | Web Development|
 | Puskal Barali |CODING|
 | Sushiya Mgr | Photoshop|
 | Abisha Shrestha |Web Development|
