@@ -14,6 +14,7 @@
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
 |SURAJ|photoshop|
+arayk shah
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
