@@ -13,7 +13,24 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+Anushkrit parajuli 1
+| IT Club 2023 |TECH|
 |Reeshav|
+|Rabhan Chaulagain |                                     | Web Development|
+| Puskal Barali |CODING|
+| Sushiya Mgr | Photoshop|
+| Abisha Shrestha |Web Development|
+| Sneha Maharjan |web development|
+| Shriyan [Photoshop]
+| Pradip Tamang Ghising | Full - Stack |
+| Reeshav Maharjan|                                      |Hacking|
+| Prabisha |photoshop|
+| Ritika |Photoshop|
+ |suraj bhandari |photoshop|
+| Rishi| photoshop |
+| Ram kumar |Photoshop|
+|SURAJ|photoshop|
+arayk shah
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
@@ -31,3 +48,4 @@
 <div align ="center">
   <img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2F26tn33aiTi1jkl6H6%2Fgiphy.gif&f=1&nofb=1&ipt=a126fbf903021ff2f339e7296425747e8ecad4ac3349b0c3dccbfa925ffa213e&ipo=images">
 </div>
+Edited by Pradip Tamang Ghising
