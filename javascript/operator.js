@@ -1,3 +1,6 @@
+
+// Operators are signs & symbols that are used to make expressions out of operands and manipulate the value.
+// Type conversion is the method to convert one datatype to another datatype by the user
 // // // Operators are signs and symbols that are used to make expressions out of operands and manipulate the value.
 // // // Something that resolves into a value is called expression.
 // // // Types of Operators in Javascript:
@@ -282,8 +285,3 @@
 //    console.log(--x)
 //    console.log(x--)
 //    console.log(x)
-
-
-
-
-
