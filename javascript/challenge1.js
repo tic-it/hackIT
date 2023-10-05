@@ -4,7 +4,6 @@
 // // console.log(address)
 // // console.log(oldAddress)
 
-
 // // let arr4 = ['A', 'B', 'C', 'D']
 // // let arr5 = arr4
 // // let arr6 = arr5
@@ -13,28 +12,24 @@
 // // console.log(arr5)
 // // console.log(arr6)
 
-
 // // console.log(c)
 // // var c = "Hello"
 // // console.log(c)
 
-// let mark ={ 
-//     mass : 78, 
+// let mark ={
+//     mass : 78,
 //     height : 1.69
-// } 
-// let john = { 
-//     mass : 92, 
-//     height : 1.95 
-// } 
-// let BMIMark = mark.mass/(mark.height**2) 
-// let BMIJohn = john.mass/(john.height**2) 
-// console.log("BMI of Mark is",BMIMark) 
-// console.log("BMI of John is",BMIJohn) 
-// let markHigherBMI = BMIMark>BMIJohn 
+// }
+// let john = {
+//     mass : 92,
+//     height : 1.95
+// }
+// let BMIMark = mark.mass/(mark.height**2)
+// let BMIJohn = john.mass/(john.height**2)
+// console.log("BMI of Mark is",BMIMark)
+// console.log("BMI of John is",BMIJohn)
+// let markHigherBMI = BMIMark>BMIJohn
 // console.log(markHigherBMI)
-
-
-
 
 // let dolphinA=96
 // let dolphinB=108
@@ -47,34 +42,29 @@
 // console.log(averageDolphin>averageKoala ? "the winner of the competition is Dolphin" :  "the winner of the competition is Koala")
 // console.log(averageDolphin>averageKoala ?  "the winner of the competition is Dolphin" : averageDolphin<averageKoala ?  "the winner of the competition is Koala" : "its a draw")
 
-
-
 // let markHigherBMI=markBMI>johnBmI
 // if(markHigherBMI)
 // {
 //     console.log("markBMI($markBMI)is higher than johnBMI($johnBMI)")
 // }
-// else{} 
+// else{}
 
+// 1
+// let avgDolphins = (96 + 108 + 89) / 3;
+// let avgkoalas = (88 + 91 + 110) / 3;
 
-//1
-// let avgDolphins=(96+108+89)/3
-// let avgkoalas=(88+91+110)/3
+// console.log(avgDolphins, avgkoalas);
 
-// console.log(avgDolphins,avgkoalas)
-
-//2
-// if(avgDolphins>avgkoalas){
-//     console.log("Dolphins are winner")
-// }
-// else if(avgkoalas>avgDolphins){
-//     console.log("Koalas are winner")
-// }
-// else{
-//     console.log("Its a draw")
+// // 2
+// if (avgDolphins > avgkoalas) {
+//   console.log("Dolphins are winner");
+// } else if (avgkoalas > avgDolphins) {
+//   console.log("Koalas are winner");
+// } else {
+//   console.log("Its a draw");
 // }
 
-//3
+// 3
 // if(avgDolphins>avgKoalas && avgDolphins>=100){
 //     console.log("Dolphins are winner")
 // }
@@ -86,5 +76,18 @@
 //     console.log("noone wins")
 // }
 
+// 4
+// let DolphinCount = 0;
+// let KoalaCount = 0;
+// if (avgDolphins > avgkoalas) {
+//   DolphinCount++;
+//   console.log("Dolphins won");
+// } else if (avgkoalas > avgDolphins) {
+//   KoalaCount++;
+//   console.log("Koalas won");
+// } else {
+//   console.log("Its a draw");
+// }
 
-
+// console.log("Dolphins won: " + DolphinCount + " times");
+// console.log("Koalas won: " + KoalaCount + " times");
