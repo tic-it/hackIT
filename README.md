@@ -12,7 +12,8 @@
 
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
-| IT Club 2023 |TECH|
+| IT Club 2023 |TECH|Anushkrit parajuli
+
 
 ### You can go through every content of this repository to figure out issues for which you can create Pull Requests
 
