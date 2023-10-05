@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Shriyan [Photoshop]
 | Pradip Tamang Ghising | Full - Stack |
 | Reeshav Maharjan|                                      |Hacking|
 | Prabisha |photoshop|
