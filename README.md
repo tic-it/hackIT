@@ -13,6 +13,13 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+Anushkrit parajuli 1
+| IT Club 2023 |TECH|
+|Reeshav|
+|Rabhan Chaulagain |                                     | Web Development|
+| Puskal Barali |CODING|
+| Sushiya Mgr | Photoshop|
+| Abisha Shrestha |Web Development|
 | Sneha Maharjan |web development|
 | Shriyan [Photoshop]
 | Pradip Tamang Ghising | Full - Stack |
