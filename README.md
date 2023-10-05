@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Abisha Shrestha |Web Development|
 | Sneha Maharjan |web development|
 | Shriyan [Photoshop]
 | Pradip Tamang Ghising | Full - Stack |
