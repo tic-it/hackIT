@@ -13,6 +13,7 @@
 | Contributors                                           | Interests                |
 | ------------------------------------------------------ | ------------------------ |
 | IT Club 2023 |TECH|
+| Sneha Maharjan |web development|
 | Shriyan [Photoshop]
 | Pradip Tamang Ghising | Full - Stack |
 | Reeshav Maharjan|                                      |Hacking|
