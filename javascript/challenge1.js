@@ -91,3 +91,9 @@
 
 // console.log("Dolphins won: " + DolphinCount + " times");
 // console.log("Koalas won: " + KoalaCount + " times");
+
+// 5
+// const arr = ["dog", "cat", "Dolphins", "Koalas"];
+// arr.forEach((animal) => {
+//   console.log("My " + animal);
+// });
