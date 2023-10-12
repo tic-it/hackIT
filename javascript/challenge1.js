@@ -97,3 +97,36 @@
 // arr.forEach((animal) => {
 //   console.log("My " + animal);
 // });
+
+// 6
+// const findDolphin = (hint) => {
+//   switch (hint) {
+//     case "fish":
+//       console.log("Yes it is a fish");
+//       break;
+
+//     case "blue":
+//       console.log("Yes its blue");
+//       break;
+
+//     case "bigBrain":
+//       console.log("Yes They have big brain");
+//       break;
+
+//     default:
+//       break;
+//   }
+// };
+
+// findDolphin("bigBrain");
+
+// 7
+// const mergeReq = (name) => {
+//   if (name === "ARO") {
+//     console.log("Merge");
+//   } else if ("user") {
+//     console.log("Sorry");
+//   }
+// };
+
+// mergeReq("ARO");
