@@ -119,3 +119,14 @@
 // };
 
 // findDolphin("bigBrain");
+
+// 7
+// const mergeReq = (name) => {
+//   if (name === "ARO") {
+//     console.log("Merge");
+//   } else if ("user") {
+//     console.log("Sorry");
+//   }
+// };
+
+// mergeReq("ARO");
